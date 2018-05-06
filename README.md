@@ -11,7 +11,7 @@ libraryDependencies ++= Seq(
   "com.stocks_analyzer" % "stocks_analyzer_commons_2.11" % "1.0.0"
 )
 
-resolvers += "Maven Repository on Github" at "http://chotto-martini.github.io/stocks_analyzer_commons/repository"
+resolvers += "Maven Repository on Github" at "https://chotto-martini.github.io/stocks_analyzer_commons/repository"
 ```
 
 ### ローカル環境構築、コンパイル方法
