@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+	<target name="javadoc">
+		<javadoc
+			access="private"
+			encoding="UTF-8"
+			charset="UTF-8"
+			windowtitle="stocks_analyzer_commons（1.0.0） アプリケーション API仕様"
+			author="true"
+			classpath="${user.home}/.ivy2/cache/ch.qos.logback/logback-classic/jars/logback-classic-1.1.10.jar:${user.home}/.ivy2/cache/ch.qos.logback/logback-core/jars/logback-core-1.1.10.jar:${user.home}/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.22.jar"
+			destdir="./doc/javadoc/stocks_analyzer_commons/1.0.0"
+			doctitle="stocks_analyzer_commons（1.0.0） アプリケーション API仕様"
+			nodeprecated="false"
+			nodeprecatedlist="false"
+			noindex="false"
+			nonavbar="false"
+			notree="false"
+			overview="overview.html"
+			packagenames="com.stocks_analyzer.commons.*"
+			source="1.8"
+			sourcepath="src/main/scala:src/test/scala:src/main/java:src/test/resources:src/main/resources:src/test/java"
+			splitindex="false"
+			use="false"
+			version="true" />
+	</target>
+</project>

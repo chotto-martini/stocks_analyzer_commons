@@ -1,0 +1,7 @@
+com.stocks_analyzer.commons.math
+com.stocks_analyzer.commons.math.arrayFilter
+com.stocks_analyzer.commons.math.common
+com.stocks_analyzer.commons.math.dimension
+com.stocks_analyzer.commons.math.interpolation
+com.stocks_analyzer.commons.math.model
+com.stocks_analyzer.commons.util
